@@ -1,4 +1,8 @@
-# iter-opt-filter &emsp; [![Latest Version]][https://crates.io/crates/iter-opt-filter] [![Docs.rs]][https://docs.rs/iter-opt-filter]
+# iter-opt-filter &emsp; [![Latest Version]][Crates.io] [![Docs]][Docs.rs]
+[Latest Version]: https://img.shields.io/crates/v/iter-opt-filter.svg
+[Crates.io]: https://crates.io/crates/iter-opt-filter
+[Docs]: https://img.shields.io/docsrs/iter-opt-filter
+[Docs.rs]: https://docs.rs/iter-opt-filter
 
 This crate adds an optional filter to iterators. The problem this attempts to solve is the combination of multiple filters that can be enabled/disabled at runtime.
 
