@@ -1,0 +1,11 @@
+[package]
+name = "iter-opt-filter"
+version = "0.1.0"
+edition = "2018"
+description = "Adds an optional filter to iterators."
+repository = "https://github.com/ottermata/iter-opt-filter/"
+readme = false
+author = ["Christopher Krause <ottermata@pm.me>"]
+license = "MIT"
+keywords = ["iterator", "filter", "optional"]
+categories = ["rust-patterns"]
