@@ -9,3 +9,4 @@ author = ["Christopher Krause <ottermata@pm.me>"]
 license = "MIT"
 keywords = ["iterator", "filter", "optional"]
 categories = ["rust-patterns"]
+include = ["Cargo.toml", "**/*.rs"]
